@@ -6,5 +6,5 @@ Este repositório contém os arquivos e registros do projeto referentes a ativid
 * Google Drive
 * Google Gemini
 * Git e GitHub
-Estrutura
-/documentos: https://docs.google.com/document/d/1_JYujzsQQPiUwQY4qOE6xyJx3xHk89ddFRrlc-mTzWk/edit?usp=sharin](https://docs.google.com/document/d/1-mie7aYpTO-WekciRl52W0l5N3H8FX9yCeandGke3Uw/edit?usp=sharing)
+## Estrutura
+https://docs.google.com/document/d/1-mie7aYpTO-WekciRl52W0l5N3H8FX9yCeandGke3Uw/edit?usp=sharing
